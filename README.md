@@ -1,14 +1,11 @@
-Data aggregation and visualization for a brave new world.
+Data aggregation and visualization.
 
+Find deals/tweets/restaurants and graph them. 
+Build the entire world with data and remove the map (will it still look like the world?).
 
-TODO
-====
+Groupon
+Yelp
+Craigslist
+Twitter
 
-	* GroupOn
-    * Stop breaking git
-
-	* Etsy
-		* Probably won't do this because of lack of lat/lng
-
-  * Map
-    * Needs to draw properly
+Built at HackPrinceton Spring 2012 with Bilal Quadri.
